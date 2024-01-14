@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/v1/auth/p
+Content-Type: application/json
+
+{
+    "email" : "rian.rafli@gmail.com",
+    "name" : "aw",
+    "password" : "1a"
+}
